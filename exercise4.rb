@@ -10,6 +10,6 @@ one_to_hundred.each do |num|
     num % 5 == 0
     puts "Maker"
   else
-    puts num.to_s
+    puts num
   end
 end
