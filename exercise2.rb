@@ -1,4 +1,2 @@
-principal = 55
-tip = principal * 0.2
-total = tip + principal
-puts "$#{total}"
+#Question 1
+puts "$#{55*1.2}"
