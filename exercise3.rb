@@ -4,4 +4,4 @@ puts "Hi #{username}!"
 
 puts "Now, how old are you turning this year?"
 age = gets.chomp
-puts "Your were born in #{2016-age.to_i}."
+puts "Your were born in #{2016 - age.to_i}."
